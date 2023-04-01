@@ -1,7 +1,14 @@
-header {background-color: #000000;
-color:white
-}
+.cabecalho-1 {
+    background-color: #000000;
+    color :white;
 
-.logo-canto1{
-    width: 13%;
 }
+.cabecalho-1 {
+
+    width: 13%;}
+    
+    .cabecalho-2{
+
+    width: 15%;
+}
+ 
