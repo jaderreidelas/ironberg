@@ -1,0 +1,21 @@
+.cabecalho-1 {
+    background-color: #000000;
+    color :white;
+}
+.cabecalho-1 {
+width: 19%;
+}
+    
+.cabecalho-2 {
+width: 20%;
+margin: 12px;
+}
+
+.cabecalho-3 {
+width: 20%;
+display: inline-block;
+padding: 20px 25px;
+text-align: center;
+
+
+}
